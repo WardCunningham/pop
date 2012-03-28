@@ -1,0 +1,84 @@
+{
+  "title": "Collective Ownership",
+  "journal": [
+    {
+      "id": "9b09d734c3b9802b",
+      "type": "create",
+      "item": {
+        "title": "Collective Ownership"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": " You are a developer on an agile team. You want to change some existing code to facilitate your current work.",
+      "id": "660010c2b96f3fdf",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "1498f7266476340d",
+      "type": "paragraph"
+    },
+    {
+      "text": "The code on a project is a company resource, but individuals come and go. <i>You need to assure that more than one person is familiar with every part of the code base</i>.",
+      "id": "1f765d9ac889439a",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "6247e6545e15be7a",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Developers don't like to get stuck waiting for others to act. <br></br>",
+      "id": "b299af65c4cc7d2d",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Strong egos can get in the way of cooperative work.",
+      "id": "b8b4a1bd9b1b6c27",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If knowledge is closely held in the minds of single individuals, the enterprise is at risk if the individuals should leave for any reason.",
+      "id": "542d18c6a02d7271",
+      "type": "paragraph"
+    },
+    {
+      "text": "• An organization in which an individual's only security is what they know that the person in the next cubicle doesn't, is dysfunctional.",
+      "id": "c64857d4b9d32386",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "865050e19d18ef07",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>assume that all code is commonly held</i>. If you need to change something to progress, go ahead and change it. No permission is needed from the originator.",
+      "id": "0997b76436ea2d23",
+      "type": "paragraph"
+    },
+    {
+      "text": "• A consequence for management is that code tracking to individuals is impossible. The team is responsible for its code, not the individual.",
+      "id": "969b74ab7c3946e9",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Collective Ownership leads to collective reward. This strengthens teams, but is foreign to some organizations. See <b>[[Collective Responsibility]]</b>. ",
+      "id": "5d8cddca5f1857ca",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Another consequence is that individuals are pushed in the direction of being generalists, rather than specialists.",
+      "id": "ad8ffd5e7ff950ee",
+      "type": "paragraph"
+    },
+    {
+      "text": "• This requires a common <b>[[Coding Standard]]</b>, of course. <br></br>",
+      "id": "18b7c03de5a70748",
+      "type": "paragraph"
+    }
+  ]
+}

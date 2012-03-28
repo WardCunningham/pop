@@ -1,0 +1,36 @@
+{
+  "title": "Ward Cunningham",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9d17f269aafa828e",
+      "text": "Ward created the first wiki to be a pattern repository. He is ready to try again. This time as a federation of pattern libraries that can be composed into many languages."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "6fad247285f0ad95",
+      "item": {
+        "title": "Ward Cunningham"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d17f269aafa828e"
+      },
+      "id": "9d17f269aafa828e",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "9d17f269aafa828e",
+      "item": {
+        "type": "paragraph",
+        "id": "9d17f269aafa828e",
+        "text": "Ward created the first wiki to be a pattern repository. He is ready to try again. This time as a federation of pattern libraries that can be composed into many languages."
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Patterns of Practice",
+  "journal": [
+    {
+      "id": "ce9735727a4134b5",
+      "type": "create",
+      "item": {
+        "title": "Patterns of Practice"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "[[Coding Standard]]",
+      "id": "01e94ebed74f5869",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Collective Ownership]]",
+      "id": "f8cb6ebb77985300",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Constant Refactoring]]",
+      "id": "36b5a4641f610d0b",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Continuous Integration]]",
+      "id": "ec63195744df1f55",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Guiding Metaphor]]",
+      "id": "4afd307f591810e4",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Onsite Customer]]",
+      "id": "3ec82809a67d9878",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Pair Programming]]",
+      "id": "ecc2ad3f1eef370b",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Planning Game]]",
+      "id": "943e2fb425074248",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Retrospective]]",
+      "id": "624f4960ed626a97",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Simple Design]]",
+      "id": "12b2aafbab6d5506",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Sustainable Pace]]",
+      "id": "b6614f55f287f87e",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Test First]]",
+      "id": "a769b5e174d6cdf3",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title></title>
+  <style type="text/css">
+/*<![CDATA[*/
+
+  p.sgc-3 {font-style: italic; text-align: center}
+  span.sgc-2 {font-style: normal;}
+  p.sgc-1 {text-align: center;}
+  /*]]>*/
+  </style>
+</head>
+
+<body>
+  <h3 id="heading_id_2">Continuous Integration&nbsp;</h3>
+
+  <p>You are a developer on an agile team. You have just finished the development of a story or task and all of the unit tests pass.</p>
+
+  <p class="sgc-1">???</p>
+
+  <p>Stories are broken into tasks unless they are already very small. It is the tasks that are assumed and built by the developers. Unit tests are written at the task (and sub task) level. <i>If you don't integrate the task into the build you won't know early enough that you have a problem.</i></p>
+
+  <p class="sgc-3"><span class="sgc-2"><img alt="" src="../Images/Forces.png" /></span></p>
+
+  <p>• Many projects fail because they are built from parts that won't integrate at the end.</p>
+
+  <p>• Small assumptions made frequently by many people accumulate into large problems.</p>
+
+  <p>• Integration takes time. It often invalidates your assumptions.</p>
+
+  <p>• Small bits of code are easier to integrate than large ones.</p>
+
+  <p>• But with many pairs working, integration can be a bottleneck.</p>
+
+  <p>• Task integration requires good code management tools such as CVS and SVN unless the team is very small. (<a href="http://www.nongnu.org/cvs/">http://www.nongnu.org/cvs/</a>, <a href="http://subversion.tigris.org">http://subversion.tigris.org</a>/)</p>
+
+  <p class="sgc-1">! ! !</p>
+
+  <p><b>Therefore</b>, <i>immediately&nbsp;integrate every task into the build when all its unit tests pass.</i></p>
+
+  <p>A code repository that helps you do this is essential. CVS, for example, has such capabilities. You can run (and must pass) all the tests against the code base before you commit, so that when you do, you know that nothing is broken.</p>
+
+  <p>• This is another job that requires discipline. The coach must be vigilant.</p>
+
+  <p>• Since tasks are small, integration is more likely to be successful. When not successful, the problems more likely to be manageable than when you do "big bang" integration. You also learn earlier when you have a problem if you integrate frequently. But if you can't make all the tests pass, you can't commit the code.</p>
+
+  <p>• Each pair of programmers may be integrating a task every day or so (more frequently in some teams). This implies discipline with respect to maintenance of the code base. An integration machine on which all integration tasks are carried out can help here.</p>
+
+  <p>• To emphasize: when you integrate, all the unit tests must pass. Not just the tests for this feature, all the tests. This implies, of course, that the tests are in the repository along with everything else and thus are accessible to everyone. You also need to achieve a <b>Ten Minute Build</b>.&nbsp;</p>
+
+  <p>• You also need to run the Acceptance Tests. Those for the story just built must pass, of course, but you need a policy for what happens when a new story being integrated makes an acceptance test that was passing now fail. In many teams this is a show-stopper and all work halts until the situation is resolved.</p>
+
+  <p>• You may actually need two (or more) repositories for code. One contains the committed code against which all tests pass. The other contains work in progress and is put in a centralized place only to assure that backups get done and nothing gets lost if a machine crashes or is stolen.</p>
+
+  <p>• When you think you have finished a task, but nothing you do makes it integrate correctly, warn the tracker that there may be delays.</p>
+
+  <p>The integration process has four parts. (1) Run all the tests against this new code. They must all pass. (2) Integrate the entire code base back into the local version. (3) Run all the unit tests for the system (the "suite"). They must all pass. (4) Commit the code back to the repository. The implication is that the code in the repository is always working integrated code. The integration process maintains the invariance of this state.</p>
+
+  <p>Continuous Integration is especially difficult in distributed teams since you need to avoid conflicts as much as possible. The reduced awareness of the activities of the remote developers may lead to problems. You may need tools, and will need procedures, to be sure you have adequate awareness among team members. [19]</p>
+
+  <p><img alt="" src="../Images/ContinuousIntegration.png" /></p>
+</body>
+</html>

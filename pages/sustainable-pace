@@ -1,0 +1,79 @@
+{
+  "title": "Sustainable Pace",
+  "journal": [
+    {
+      "id": "ef4c1fbc93992d64",
+      "type": "create",
+      "item": {
+        "title": "Sustainable Pace"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "You are any member of an agile team, but primarily the Manager.",
+      "id": "7827109e64e67e03",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "600732f4fe3e3be9",
+      "type": "paragraph"
+    },
+    {
+      "text": "<i>You want your team to be effective for the long haul, months after month</i>. Pushing the team too much on schedule may seem like a good thing, but it will cost you in the long term.",
+      "id": "191addfa213bcf15",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "d163e7b5da4bde37",
+      "type": "paragraph"
+    },
+    {
+      "text": "• When people are tired they seldom produce their <b>[[Best Efforts]]</b>",
+      "id": "37304d980863c804",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Development is intellectual work. Your head needs to be clear to do it.",
+      "id": "b27cee7230e6847d",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Exhausted people often don't behave well.",
+      "id": "17e0a1652ed64080",
+      "type": "paragraph"
+    },
+    {
+      "text": "• People want to give their best and will work hard without goading.",
+      "id": "9fdaf11538d0e4d9",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Over specifying is counterproductive and nearly always fails.",
+      "id": "5c8cf1819bb558da",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "70eb01638773d7e6",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>pace the team for the long haul, not a sprint.</i> You want everyone working in top form all the time",
+      "id": "f010c832a37ac64a",
+      "type": "paragraph"
+    },
+    {
+      "text": "• An occasional burst of overtime is ok, but don't expect that it can continue without degradation of the team and its product. But a stable velocity is your best tool for projecting. ",
+      "id": "a5047e64948f4880",
+      "type": "paragraph"
+    },
+    {
+      "text": "See <b>[[Energized Work]]</b> for more on this. In fact there has been an evolution here. These ideas were originally captured in the idea of a <i>40-Hour Week </i>[2]. This morphed into the ideas expressed here. The best formulation is in <b>[[Energized Work]]</b>.",
+      "id": "22b3c12528836663",
+      "type": "paragraph"
+    }
+  ]
+}

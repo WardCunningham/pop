@@ -1,0 +1,84 @@
+{
+  "title": "Constant Refactoring",
+  "journal": [
+    {
+      "id": "6af394a949366c8f",
+      "type": "create",
+      "item": {
+        "title": "Constant Refactoring"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "You are a developer on an agile team. You are implementing some functionality (a story) and realize that it will be difficult to do, given the current code-base.",
+      "id": "b94c4ad8866b4274",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "07dcdec1c433598a",
+      "type": "paragraph"
+    },
+    {
+      "text": "Since you haven't had all the requirements at the beginning, you don't have an overall architecture or design. <i>The code can become a hodge-podge if it isn't carefully managed</i>.",
+      "id": "db8826607623d40b",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "f81c41e19a648401",
+      "type": "paragraph"
+    },
+    {
+      "text": "• You want clean code and a good design, given what you know now. <br></br>",
+      "id": "414703994e9ae1ba",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If the code is clean and an incremental change is small it shouldn't take a lot to cleanly integrate them, leaving the code clean. But it does take discipline.",
+      "id": "e1335ce8e436dc55",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If the code is messy then any change is likely to leave it messy.",
+      "id": "1dedea42a0886eda",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "ac4e065bd8c59c57",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>continuously improve the  structure of the code as you go</i>.",
+      "id": "d76f5844ba814656",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Sometimes the easiest way to implement a story is to spend some time changing the existing code so that the new story fits more cleanly into it.",
+      "id": "2ec56aab561a9e49",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If the project has to make a radical change of direction you will have high cost here, but this is because of the new requirements, not that you didn't anticipate them in an early design.",
+      "id": "dd0771dd92351909",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Design patterns are a good place to look for refactoring advice and guidance. See Kerievsky[13], for example.",
+      "id": "ab972d5cb7374de8",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If you find velocity decreasing (<b>[[Yesterday's Weather]]</b>) it is probably time to spend extra effort on refactoring. You may need to apply a <b>[[Flexible Velocity]]</b> to achieve this.    ",
+      "id": "b3297b75bfe4bc67",
+      "type": "paragraph"
+    },
+    {
+      "text": " >>></img>",
+      "id": "013089711068b98a",
+      "type": "paragraph"
+    }
+  ]
+}

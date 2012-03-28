@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title></title>
+  <style type="text/css">
+/*<![CDATA[*/
+
+  p.sgc-1 {text-align: center;}
+  /*]]>*/
+  </style>
+</head>
+
+<body>
+  <h3 id="heading_id_2">Test First</h3>
+
+  <p>You are a developer in the development phase of a project. You are beginning programming; perhaps the development of a task or subtask, or perhaps refactoring or bug fixing. You are pretty confident you know what to do for a task, though you may not yet be sure how to do it.</p>
+
+  <p class="sgc-1">???</p>
+
+  <p>You think differently when writing tests than when writing code. Testing requires that you take a broader view. Coding requires a microscopic view. <i>Tests written after a task is coded too often test what was done, not what is wanted, if they get written at all.</i></p>
+
+  <p class="sgc-1"><img alt="" src="../Images/Forces.png" /></p>
+
+  <p>• Testing takes time. But debugging takes more time and is more frustrating.</p>
+
+  <p>• In an agile project things will change. Changes in future may invalidate assumptions you make now. You need to make these assumptions visible.</p>
+
+  <p>• You want to build what the story says to build, but ONLY that. You want to <b>DTSTTCPW</b>.</p>
+
+  <p>• You feel some pressure, of course, to "just get on with it."</p>
+
+  <p>• Programming is creative work. It requires thinking as well as coding.</p>
+
+  <p>• You can design while testing. You can test while designing.</p>
+
+  <p>• You need to assure your tests capture your intent, not just your implementation.</p>
+
+  <p class="sgc-1">! ! !</p>
+
+  <p><b>Therefore</b>, <i>write your tests for some code before you write the code</i>. If the tests pass you are done. Capture your understanding in the test. Write no code without a failing test. This is also known as Test Driven Development (TDD). These developer-defined tests are called <i>unit tests</i>.&nbsp;</p>
+
+  <p>• If your organization has a testing group that will develop its own tests from some requirements documents (here just story cards) then this can seem like wasted effort. If you can get a member of the test group on your team, you will probably be able to write better tests and you might be able to feed your tests into their process. In other words, your tests might help them. But their traditional tests, coming late, won't help you.</p>
+
+  <p>• The purpose of unit tests is not the same as that of <b>Acceptance Tests</b>. Unit tests test that you build what you think you should build. Acceptance Tests test what the customer wants built: what you actually should build. You need both. The customer writes or specifies the Acceptance Tests. The developer creates the unit tests.</p>
+
+  <p>• It will take the team time and effort to get comfortable with this practice. It also requires initial setup before the project begins. The coach can help with the former.</p>
+
+  <p>• Note that you work in very short test-implement cycles. Write a single test. Make it pass. Repeat. Don't try to write a lot of tests and then make them all pass at once. You will tend to forget where you are and get confused. The cycle is like the beating of your heart. The cycle ends whan you can't think of anything else that could go wrong. Of course you do boundary tests, stress tests, etc. as you would normally do if you were a professional tester.&nbsp;</p>
+
+  <p>• Write only enough code to make the test pass. Then think again about what other tests are needed. This saves you money, since you are less likely to build bloat into the application by programming speculatively.</p>
+
+  <p>There are three ways to fail when you write tests after the code.</p>
+
+  <p>(a) Time constraints will push you away from writing the tests.</p>
+
+  <p>(b) You will be tempted to get too creative when programming, thinking that some extension could be easily added. So why not? If what you do isn't needed, it is a waste of the customer's resources, complicates the code, and needs to be maintained in future.</p>
+
+  <p>(c) You will spend time in the coding process doing design without capturing your decisions in tests. You aren't saving time, as the thinking process uses the bulk of your time in any case.</p>
+
+  <p>Unit tests have all of the benefits of any regression test system. <b>Executable Tests</b> give you confidence that you got it right the first time, but more importantly, they let you <b>Refactor</b> with confidence. They also tell you immediately that a new requirement is inconsistent with an old one.</p>
+
+  <p>Anecdote: The author once sat down to build a feature in a project, wrote a test for the feature, and it passed without any additional code for the feature. In fact the feature was implemented as an unintended side effect of other features. Don't count on this happening often, though.</p>
+
+  <p>Special note on testing: This author believes (with only anecdotal evidence) that when correctly done, testing doesn't cost you time, but speeds you up. This implies that you are using <b>Pair Programming</b> and test driven development <i>and</i> you are doing your thinking, designing, and planning for a story while strapped into the test harness. You must think about the structure of your solution. You must design classes and methods to solve the problem. If you do this planning and thinking with JUnit (or equivalent) running you will capture all of your decisions immediately as tests. The planning needs to be done anyway. The tests serve then as notes about your decisions as well as the tests that will eventually prove your code. While this may not be true for tests of GUI code, it seems to be for tests of the underlying model. This is another reason for clean separation between model and view, actually.</p>
+</body>
+</html>

@@ -1,0 +1,114 @@
+{
+  "title": "Pair Programming",
+  "journal": [
+    {
+      "id": "85802db9a3f7da49",
+      "type": "create",
+      "item": {
+        "title": "Pair Programming"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "You are a developer on an agile team. Development is proceeding. You are coding a task.",
+      "id": "88c08e7d7f825173",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "27b4c47827239ad3",
+      "type": "paragraph"
+    },
+    {
+      "text": "<i>When you work alone, you often get stuck. You also make simple, but possibly devious and costly, errors.</i> You need to assure that the code is of high quality and is efficiently created.",
+      "id": "c2d9c8a592d6a438",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "cc707b07b812c8d8",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Code walk-throughs are typically used to assure quality but they are expensive and not an efficient use of most people's time. Everyone hates them.",
+      "id": "8875f2fe02837c20",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Errors introduced into code slow you down more than most anything else, as they need to be removed, but it is difficult to do so.",
+      "id": "b054fde9239be6e9",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Two people working on the same problem at the same time rarely get stuck simultaneously.",
+      "id": "e5e670cd5e3918bc",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Without extensive documentation, you need to spread knowledge of the code base throughout the developers on the team.",
+      "id": "a81bcbd5a8c3b96f",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "3e159178153d96d6",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>whenever you write code to be committed to the code-base, do it with a partner. </i>Two people share one keyboard and screen. One person controls the keyboard and mouse at any given instant and the other observes and comments, but the roles switch.",
+      "id": "a49caae7b747d53a",
+      "type": "paragraph"
+    },
+    {
+      "text": "• This practice is synergistic with many of the other practices, receiving and giving mutual support. It also provides you safety when a person leaves the team, as their knowledge doesn't depart with them. Skill transfer is also an asset to the organization.",
+      "id": "770af4fd56e259eb",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Experience has shown that the <i>driver</i> (controlling the keyboard) tends to think in a short-term tactical manner and the <i>navigator</i> tends to thing strategically about how this piece fits into the greater whole. This can improve not only error rates, but also design.",
+      "id": "bb50d101cccf498c",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Research has shown dramatic drops in defect rates with Pair Programming. Research has also shown little, if any, drop in productivity.",
+      "id": "5cc14cbf904bb656",
+      "type": "paragraph"
+    },
+    {
+      "text": "• It isn't just two that people work together. Pairs shift constantly. See <b>[[Promiscuous Programming]]</b>.",
+      "id": "352d9c7c5d5467b6",
+      "type": "paragraph"
+    },
+    {
+      "text": "• A pair can get stuck, of course, but if you also do all your work in <b>[[Our Space]]</b> then this is even less likely to occur since you can always ask others for help.",
+      "id": "cd39be2b60772b61",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The owner of <b>[[My Story]]</b> need not be the driver. In fact, driver-navigator roles should switch frequently and especially if one gets blocked. <br></br>",
+      "id": "573000282cc7a940",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Pairing has been shown to support a <b>[[Humane Workplace]]</b>. <br></br>",
+      "id": "656e092eecdd9a8b",
+      "type": "paragraph"
+    },
+    {
+      "text": "• In dispersed development this is still essential. See <b>[[Remote Pair]]</b>.<br></br>",
+      "id": "f33edc980c957513",
+      "type": "paragraph"
+    },
+    {
+      "text": "The author has this picture in his head of 10 people isolated in cubicles working alone, with everyone stuck on separate problems, but with the solutions all collectively known, though in the heads of those in the other cubes.",
+      "id": "391e18eca0a1f102",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "f9601b01c433695c",
+      "type": "paragraph"
+    }
+  ]
+}

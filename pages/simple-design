@@ -1,0 +1,89 @@
+{
+  "title": "Simple Design",
+  "journal": [
+    {
+      "id": "f28e42066e85726f",
+      "type": "create",
+      "item": {
+        "title": "Simple Design"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "You are a developer on an agile team. You have some functionality to build into the existing application.",
+      "id": "89f7a7c226b8dca1",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "9e55fabba7216cd5",
+      "type": "paragraph"
+    },
+    {
+      "text": "Design takes time. <i>Sophisticated design takes a lot of time and thought. But that costs money</i>.",
+      "id": "fc7709a21c7ffa12",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "ada6b602bbc42d1a",
+      "type": "paragraph"
+    },
+    {
+      "text": "• You don't have all of the requirements for the project in hand. They will likely change in any case.",
+      "id": "cd05739cc7ba38ea",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Designs are not the product. Their only value is in helping you build and maintain the product.",
+      "id": "e3e3898ba6ef359c",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If the requirements change enough, early design decisions will become invalidated. The design will need to be redone.",
+      "id": "b2c3f8ffcf43d1a3",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "bd9545ec648faa41",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>use the simplest design you can think of that takes account of what you know at the time</i>.",
+      "id": "4424dab4a7f53504",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Don't anticipate that you know something. Don't anticipate that some story will eventually appear. Design for what you know to be true, not for what might be true in the future. But don't ignore the necessary. For example, if the scaling of a product is known (a non-functional requirement), you must design for it. ",
+      "id": "01873464c5d4e6f7",
+      "type": "paragraph"
+    },
+    {
+      "text": "• A simple design is likely more flexible, in any case.",
+      "id": "49fa286be960ee18",
+      "type": "paragraph"
+    },
+    {
+      "text": "• By choosing an agile methodology, the team has decided to pay for this added flexibility.",
+      "id": "702c91c9483dc6e2",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If the current design must change to accommodate the new feature, morph the design as little as is reasonable.",
+      "id": "52592b5afa9e9e82",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Improve the design when you <b>[[Refactor]]</b>.",
+      "id": "88e62fb941b83e38",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If the design starts to seem chaotic, discuss it at the next <b>[[Retrospective]]</b>.",
+      "id": "235eef3af2bb2c01",
+      "type": "paragraph"
+    }
+  ]
+}

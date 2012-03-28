@@ -1,0 +1,109 @@
+{
+  "title": "Planning Game",
+  "journal": [
+    {
+      "id": "2a6047e59901e105",
+      "type": "create",
+      "item": {
+        "title": "Planning Game"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "You are a member of an agile team. An iteration (sprint) is about to begin. You need to decide what to do in this iteration.",
+      "id": "05c5e7fb81713aea",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "d251f0002815b276",
+      "type": "paragraph"
+    },
+    {
+      "text": "The customer needs a chance to look at recent events and current needs and to re-steer the project. If you continue on the wrong path for long, you will fail.",
+      "id": "43ec8b10dd79bbd6",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "0cbeb24a1db2bdd3",
+      "type": "paragraph"
+    },
+    {
+      "text": "• You want to permit rapid re-targeting of the project. Business needs change.",
+      "id": "0d04ab273873862f",
+      "type": "paragraph"
+    },
+    {
+      "text": "• You don't want day-to-day flux to introduce chaos into the work.",
+      "id": "fa73bf9f5fefb360",
+      "type": "paragraph"
+    },
+    {
+      "text": "• You want guidance from the customer, but not micromanagement.",
+      "id": "7559117dbf442ffb",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The stories have to get estimated",
+      "id": "de3b4b1775b75147",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The stories need to get selected for an iteration.",
+      "id": "e4b7b932c6c14e82",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If you fail to plan, you plan to fail. (Wisdom from \"Planned Development\" but no less relevant to agile development.  ",
+      "id": "41104eed1a4a63c1",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "464b662bf328b2ac",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>set aside one day a month (perhaps distributed over shorter iterations) to plan the next iteration and/or release</i>.",
+      "id": "6aefdd185aaf142b",
+      "type": "paragraph"
+    },
+    {
+      "text": "• This should often include a <b>[[Retrospective]]</b> of the previous cycle.",
+      "id": "0abfbcc4a77e2e83",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Within an iteration the work plan is fixed, though things known to have become obsolete are dropped. Work isn't added unless the team runs out of work.",
+      "id": "ff472f89e4f98139",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Developers will <b>[[Ask For More]]</b> if they find they have additional time. <br></br>",
+      "id": "58673ca63f8a9ae4",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Arbitrary changes of direction are permitted (welcomed) at the Planning Game points.",
+      "id": "6500c0fb45cd721b",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The Planning Game is held once per iteration, whatever the length.",
+      "id": "5e32164030a8a3ba",
+      "type": "paragraph"
+    },
+    {
+      "text": "• If release cycles are longer than iteration cycles, planning for release is also done in the Planning Game.",
+      "id": "af11a3c06cfdc285",
+      "type": "paragraph"
+    },
+    {
+      "text": "Scrum plays the Planning Game once a month, XP every week or two. In both it is a time-boxed activity, since you want to <b>[[Deliver Customer Value]]</b>. Since the interval is longer, the <b>[[ScrumMaster]]</b> might, on occasion, need to declare premature end to a sprint, especially when changes to business plans make current work foolish. This is less likely in XP with shorter iterations. In any case it is a rare occurrence. A new Planning Game will then begin a new cycle, perhaps after a Retrospective.",
+      "id": "8430ed600ca90467",
+      "type": "paragraph"
+    }
+  ]
+}

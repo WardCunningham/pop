@@ -1,0 +1,15 @@
+{
+  "title": "Face Time",
+  "story": [
+
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "713b993e719b4ee9",
+      "item": {
+        "title": "Face Time"
+      }
+    }
+  ]
+}

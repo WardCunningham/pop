@@ -1,0 +1,95 @@
+{
+  "title": "Other Pattern Sites",
+  "story": [
+    {
+      "type": "federatedWiki",
+      "id": "82b5f56136a62ee2",
+      "site": "ddd.fed.wiki.org",
+      "slug": "domain-driven-design",
+      "title": "Domain Driven Design",
+      "text": "This site has been populated with extracts from <i>Domain-Driven Design: Tackling Complexity in the Heart of Software</i>, by Eric Evans, Addison-Wesley 2004."
+    },
+    {
+      "type": "federatedWiki",
+      "id": "75e7df4f083e2ceb",
+      "site": "reliable.prosperity.fed.wiki.org",
+      "slug": "reliable-prosperity",
+      "title": "Reliable Prosperity",
+      "text": "When the health of ecosystems and communities is not integrated into economic activities, all three suffer. In turn, economic dependence on destructive activities creates apparent conflicts between work, nature, and community."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "0141bf677aab5887",
+      "item": {
+        "title": "Other Pattern Sites"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "82b5f56136a62ee2"
+      },
+      "id": "82b5f56136a62ee2",
+      "type": "add"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "75e7df4f083e2ceb"
+      },
+      "id": "75e7df4f083e2ceb",
+      "type": "add",
+      "after": "82b5f56136a62ee2"
+    },
+    {
+      "type": "edit",
+      "id": "82b5f56136a62ee2",
+      "item": {
+        "type": "federatedWiki",
+        "id": "82b5f56136a62ee2",
+        "site": "ddd.fed.wiki.org",
+        "slug": "domain-driven-design",
+        "title": "Domain Driven Design",
+        "text": "<h2>Part I </h2>"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "82b5f56136a62ee2",
+      "item": {
+        "type": "federatedWiki",
+        "id": "82b5f56136a62ee2",
+        "site": "ddd.fed.wiki.org",
+        "slug": "domain-driven-design",
+        "title": "Domain Driven Design",
+        "text": "This site has been populated with extracts from <i>Domain-Driven Design: Tackling Complexity in the Heart of Software</i>, by Eric Evans, Addison-Wesley 2004."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "75e7df4f083e2ceb",
+      "item": {
+        "type": "federatedWiki",
+        "id": "75e7df4f083e2ceb",
+        "site": "reliable.prosperity.fed.wiki.org",
+        "slug": "reliable-prosperity",
+        "title": "Reliable Prosperity",
+        "text": "    When the health of ecosystems and communities is not integrated into economic activities, all three suffer. In turn, economic dependence on destructive activities creates apparent conflicts between work, nature, and community. How can we create an economy that effectively meets human needs while regenerating natural systems? An economy which grows organically &mdash; and fills new niches &mdash; by working with nature and enriching human capacities?"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "75e7df4f083e2ceb",
+      "item": {
+        "type": "federatedWiki",
+        "id": "75e7df4f083e2ceb",
+        "site": "reliable.prosperity.fed.wiki.org",
+        "slug": "reliable-prosperity",
+        "title": "Reliable Prosperity",
+        "text": "When the health of ecosystems and communities is not integrated into economic activities, all three suffer. In turn, economic dependence on destructive activities creates apparent conflicts between work, nature, and community."
+      }
+    }
+  ]
+}

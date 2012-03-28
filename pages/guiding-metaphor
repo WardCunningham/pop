@@ -1,0 +1,109 @@
+{
+  "title": "Guiding Metaphor",
+  "journal": [
+    {
+      "id": "d934341324da9385",
+      "type": "create",
+      "item": {
+        "title": "Guiding Metaphor"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": " You are a member of an agile team. The project is just beginning. You want to understand in general terms what the application is about.",
+      "id": "3d33d6ae4adb72dc",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "4137b10328b90c5a",
+      "type": "paragraph"
+    },
+    {
+      "text": "Customer and developers often fail to have a shared view of the project. They speak different languages and live in different worlds.",
+      "id": "fc1d0bed4924b302",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "3530384ce371f038",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Customers and developers have different training, backgrounds, terminology, and even world-views.",
+      "id": "a738bb1751556bb0",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Developers are often influenced by what they built in some previous project.",
+      "id": "3f87b8c8edb99179",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Customers often assume that everyone's concerns are the same as theirs. Much of their view of the world is implicit: business value, business process, etc.",
+      "id": "932d661609fe933c",
+      "type": "paragraph"
+    },
+    {
+      "text": "• It is difficult to build something without an overall view, but agile projects may not create an overall design at the beginning.",
+      "id": "28d9ff901b0e6184",
+      "type": "paragraph"
+    },
+    {
+      "text": "• People are good at learning from metaphor and analogy.",
+      "id": "5f63d3a2ef4e84b5",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "a15dfb794dc0b55f",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>spend enough</i> <b class=\"sgc-3\">[[Face Time]]</b> <i>developing a common, shared, story about the application</i>. It should have sufficient detail that it gives a coherent picture of the system that can be shared by the stakeholders and the developers.",
+      "id": "d27f7f3ea92f07c9",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The Guiding Metaphor is not a specification. \"Just enough\" is enough.",
+      "id": "76a49ed337f8fa25",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The metaphor should be able to tell you when you have gone wrong, though not the precise direction. It is intended to give you overall guidance only.",
+      "id": "fa069e873b65be79",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The metaphor will need to evolve with the project, of course. If you change direction radically, the current Guiding Metaphor may become obsolete.",
+      "id": "ddc23072c67f1673",
+      "type": "paragraph"
+    },
+    {
+      "text": "• This is most needed when the <b>[[Onsite Customer]]</b> and developers are working together for the first time.",
+      "id": "228f6900596d51f8",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Someone on the stakeholder side likely has a grand view; the \"grand unified theory,\" of the product to be created. Have him or her try to express this to the developers. Often this stakeholder is very passionate and enthusiastic about this view. Express that.",
+      "id": "4381791b17409d9b",
+      "type": "paragraph"
+    },
+    {
+      "text": "• An <b>[[Effective Coach]]</b> may help the team recognize whether or not the view is shared.",
+      "id": "9a87809d240e5c79",
+      "type": "paragraph"
+    },
+    {
+      "text": "At the beginning of an agile project, the target may be seen only indistinctly. This is expected. But the customer has some idea of where she needs to get over the life of the project. It is necessary to share this view with the developers in a way that can guide their thinking as they go. Sometimes role-playing games are a good way to communicate the basic structure of the customer's goal.",
+      "id": "69732afd3154f4cb",
+      "type": "paragraph"
+    },
+    {
+      "text": "In many ways, this is the hardest of the XP practices. So hard, in fact, that some have dropped it. However, projects can fail without a shared vision of the target. One of the difficulties is that customers are not trained to communicate their vision to those who don't share it and who don't necessarily understand their needs, goals, and constraints. Customers (and stakeholders in general), need an \"elevator talk\" with which they can explain the project to a stranger in two minutes or less.",
+      "id": "0c975110b9a497fc",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Coding Standard",
+  "journal": [
+    {
+      "id": "f844b410674463ff",
+      "type": "create",
+      "item": {
+        "title": "Coding Standard"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "<span class=\"sgc-1\">You are a developer on an agile team. You need to work closely with the other developers. </span>",
+      "id": "4dc8d9d67f3b0910",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "6be005c51203dbfb",
+      "type": "paragraph"
+    },
+    {
+      "text": "<i>To achieve</i> <b class=\"sgc-3\">[[Collective Ownership]]</b> <i>and enable</i> <b class=\"sgc-3\">[[Contstant Refactoring]]</b><i>, the structure, look, and feel of the code needs to be clear to every developer</i>.",
+      "id": "9555446beb6f953d",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "cd9c57d4cdd203f8",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Even small irritants can add to frustration.",
+      "id": "9ea562067b984387",
+      "type": "paragraph"
+    },
+    {
+      "text": "• On an agile team, even more than in other cases, the code is read frequently by many people.",
+      "id": "bb345c6cae45e804",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "0a0bfa57e836d84a",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>adopt a common coding style that everyone agrees to use consistently.</i>",
+      "id": "db004e6aa2e2cce8",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The details of the style matter less than the agreement and discipline to use it.",
+      "id": "31ab1fce4c359093",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Tools can help.",
+      "id": "20d23b9c573d7ddf",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Naming styles and conventions are a part of this. <b>[[Pair Programming]]</b> will help you keep to a style.",
+      "id": "580fbdb560f42be0",
+      "type": "paragraph"
+    }
+  ]
+}

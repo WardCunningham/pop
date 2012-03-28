@@ -1,0 +1,109 @@
+{
+  "title": "Retrospective",
+  "journal": [
+    {
+      "id": "0aeeaee6fc9fd993",
+      "type": "create",
+      "item": {
+        "title": "Retrospective"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "You are a member of an agile team. It is the end of an iteration.",
+      "id": "2d032b1f0d2d2968",
+      "type": "paragraph"
+    },
+    {
+      "text": "???",
+      "id": "f13bfa35a43c43b1",
+      "type": "paragraph"
+    },
+    {
+      "text": "You may need to change the process, but it might not be obvious. You want to know if the process you use is working well for you or not.",
+      "id": "267d123bc769f85c",
+      "type": "paragraph"
+    },
+    {
+      "text": ">>></img>",
+      "id": "2a610767993c6ea7",
+      "type": "paragraph"
+    },
+    {
+      "text": "• When there is a problem, individuals may have only separate pieces of the puzzle.",
+      "id": "e05c8d52caff8dad",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Without a clear end-to-end plan, as is typical in agile development, you need to run the project on a constant feedback stream.",
+      "id": "0a243413f68625bf",
+      "type": "paragraph"
+    },
+    {
+      "text": "• You also need to assure you keep doing the good things that are making your project a success. You want to \"turn the knobs up\" on the things that work.",
+      "id": "2c1d7c495d96f8dd",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The team itself likely has the knowledge of what is working and what not, but you need a way to elicit this information in a safe, forward looking, manner.",
+      "id": "d675b154c1d0f205",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Different members of the team may have different ideas about what works and what doesn't.",
+      "id": "641d349527d2bca7",
+      "type": "paragraph"
+    },
+    {
+      "text": "! ! !",
+      "id": "0fd61942ca160413",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, <i>hold a formal retrospective[14] to determine (a) what went well and should be repeated and (b) what caused difficulties and how you should change practices to do better.</i> ",
+      "id": "16f6c1a58c37ca14",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Important times to hold Retrospectives are at the end of the first iteration, the end of each release, and whenever the <b>[[Stand Up Meeting]]</b> reveals serious problems.",
+      "id": "129863a623d136a4",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The first few Retrospectives you do should have the assistance of a trained facilitator and require at least a day.",
+      "id": "175e23285eadd3e8",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Everyone needs to know from the beginning that part of the job is to be evaluative of the effectiveness of the practices.",
+      "id": "b8222c214c92627a",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Retrospectives need to include the <b>[[Whole Team]]</b>.",
+      "id": "cc45dc2b152832a3",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Retrospectives don't assign blame when things go wrong. Everyone needs to take responsibility.",
+      "id": "ebf15b8239bad00e",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Retrospectives don't directly <b>[[Deliver Customer Value]]</b>, so they need to be kept short and goal directed. If you hold them frequently, they can take as little as an hour.",
+      "id": "93dd2779aea8f733",
+      "type": "paragraph"
+    },
+    {
+      "text": "• Hold a longer Retrospective at the end of the project, of course, so that you don't lose the important lessons.  ",
+      "id": "d6996887a268a35c",
+      "type": "paragraph"
+    },
+    {
+      "text": "• The Respective gives advice to the <b>[[Whole Team]]</b>, not the managers. You have a <b>[[Self-Organizing Team]]</b>, after all.",
+      "id": "b111ea4c0438052d",
+      "type": "paragraph"
+    }
+  ]
+}
